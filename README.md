@@ -24,5 +24,5 @@ Done
 Done
 
 
-7) Your Script Should Be Stored in a Git Repository Accessible to All Members of Your Team and the Professor:
+7) Your Script Should Be Stored in a Git Repository Accessible to All Members of Your Team and the Professor: 
 Done
